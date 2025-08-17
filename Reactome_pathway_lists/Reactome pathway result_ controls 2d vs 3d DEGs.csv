@@ -1,0 +1,42 @@
+TopLevel,Level2,Entities ratio,Entities pValue,Entities FDR
+Cell Cycle,Cell Cycle,0.047400414,0.999796621,0.999796621
+Cell Cycle,Cell cycle checkpoints,0.018041904,0.917544432,0.917544432
+Cell Cycle,Cell cycle mitotic,0.038476461,0.999301739,0.999301739
+Cell Cycle,synthesis of DNA,0.008535954,0.255091954,0.797673322
+Cellular responses to stress,Cellular responses to stress,0.067123642,0.126782414,0.797673322
+Cellular responses to stress,Cellular response to chemical stress,0.019723228,0.034735792,0.616359114
+Cellular responses to stress,Cellular response to hypoxia,0.005561304,0.019780811,0.445695874
+Cellular responses to stress,Cellular response to starvation,0.011381273,1.00E-07,1.34E-05
+Developmental Biology,Nervous system development,0.040157786,3.50E-04,0.02627939
+Disease,Disease,0.170525091,1,1
+Disease,Infectious disease,0.098745473,0.99999998,0.99999998
+Gene Expression,Gene Expression,0.123965339,0.999997147,0.999997147
+Gene Expression,RNA pol II transcription,0.111743404,0.999992612,0.999992612
+Immune System,Immune System,0.172012416,1,1
+Immune System,Adaptive Immune System,0.060333678,0.99994966,0.99994966
+Immune System,Cytokine Signalling,0.071132954,0.920429531,0.920429531
+Immune System,Innate Immune System,0.086717538,0.999999983,0.999999983
+Metabolism,Metabolism,0.238683394,1,1
+Metabolism,Metabolism of amino acids,0.043132437,0.999999192,0.999999192
+Metabolism,Metabolism of lipids,0.097516813,1,1
+Metabolism,TCA cycle & respiratory electron transport,0.015390585,0.007909832,0.22147529
+Metabolism of proteins,Post-translational protein modification,0.105988101,1,1
+Metabolism of proteins,Metabolism of proteins,0.150931195,0.999999948,0.999999948
+Metabolism of proteins,Eukaryotic Translation,0.021921883,1.49E-05,0.001701318
+Metabolism of proteins,Mitochondrial translation,0.006595965,0.006988669,0.209660083
+Metabolism of RNA,Metabolism of RNA,0.054384377,0.931824515,0.931824515
+Metabolism of RNA,Regulation of mRNA stability,0.006013968,0.01450328,0.369253414
+Metabolism of RNA,Nonsense-Mediated Decay,0.008018624,4.04E-09,6.46E-07
+Metabolism of RNA,rRNA processing,0.015972581,0.026140651,0.522813029
+Organelle biogenesis and maintenance,Mitochondrial biogenesis,0.002004656,0.011118818,0.300208092
+Programmed Cell Death,Regulation of Apoptosis,0.003556648,0.003672064,0.128522234
+Signal Transduction,Signal Transduction,0.196326953,1,1
+Signal Transduction,Intracellular signaling by second messengers,0.023861873,0.455383707,0.797673322
+Signal Transduction,MAPK family signaling cascades,0.024573202,0.690944082,0.797673322
+Signal Transduction,MTOR signalling,0.003233316,0.226374744,0.797673322
+Signal Transduction,Signaling by EGFR,0.004138645,0.422153758,0.797673322
+Signal Transduction,Signaling by Hedgehog,0.010863942,0.139312645,0.797673322
+Signal Transduction,Signaling by NOTCH,0.016683911,0.156482509,0.797673322
+Signal Transduction,Signaling by Rho Miro and RHOBTB3,0.046818417,0.097652279,0.797673322
+Signal Transduction,Signaling by TGFB,0.008923952,0.063839106,0.797673322
+Signal Transduction,Signaling by WNT,0.021404553,0.606859305,0.797673322
